@@ -4,8 +4,7 @@ This is a login page project. The project template was based on rocketseat's "ch
 <h2>📷 Photos</h2>
 <details>
     <summary>Click here to see the images</summary>
-    <img src="https://user-images.githubusercontent.com/89914174/151685213-7f68725a-4905-41d5-a56e-0045f3bfb24b.jpeg
-">
+    <img src="assets/ToReadme/main.jpeg">
 </details>
 
 <h2>❔ Why?</h2>
