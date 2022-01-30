@@ -6,8 +6,8 @@ This is a login page project. The project template was based on rocketseat's "ch
     <summary>Click here to see the images</summary>
     <p align="center">
     <img src="assets/ToReadme/main.jpeg" width="70%" />
-    <img src="assets/ToReadme/giAnimation.gif" width="70%" /> 
-        
+    <img src="assets/ToReadme/giAnimation.gif" width="65%" /> 
+    <img src="assets/ToReadme/password.gif" width="60%" margin-top="10px"/>    
     </p>
 </details>
 
