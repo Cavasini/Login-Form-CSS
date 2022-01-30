@@ -35,15 +35,15 @@
   .form{
       background: var(--form-background);
       padding: 50px;
-      margin-top: 127px;
       margin-left: 145px;
       font-family: 'Poppins', sans-serif;
       }
 
 .imagem-principal{
-      position: absolute;  
-      width: 782px;
-      left: 813px;
+      width: 850px;
+      height: 100vh;
+      margin-left: 100pt;
+
   }
 
 .info  {
