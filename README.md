@@ -5,7 +5,7 @@ This is a login page project. The project template was based on rocketseat's "ch
 <details>
     <summary>Click here to see the images</summary>
     <img src="assets/ToReadme/main.jpeg">
-    <img  src="">
+    <img width="100%" src="assets/ToReadme/Hnet.com-image.gif">
 </details>
 
 <h2>❔ Why?</h2>
@@ -14,8 +14,7 @@ Ps: although the code is not perfect, I intend to improve and evolve my projects
 
 <h2>🛠 Tecnologias</h2>
 
-The following tools were used in building the project:![gif01](https://user-images.githubusercontent.com/89914174/151685679-fd221ece-e614-4922-8458-c558b616132c.gif)
-
+The following tools were used in building the project
 
 - [JavaScript](https://www.javascript.com)
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
