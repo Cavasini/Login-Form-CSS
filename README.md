@@ -4,11 +4,11 @@ This is a login page project. The project template was based on rocketseat's "ch
 <h2>📷 Photos</h2>
 <details>
     <summary>Click here to see the images</summary>
-    Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](assets/ToReadme/main.jpeg)  |  ![](assets/ToReadme/giAnimation.gif)
-    <img width="50%" align=”center” src="assets/ToReadme/main.jpeg">
-    <img width="50%" align=”center” src="assets/ToReadme/giAnimation.gif">
+    <p align="center">
+    <img src="assets/ToReadme/main.jpeg" width="70%" />
+    <img src="assets/ToReadme/giAnimation.gif" width="70%" /> 
+        
+    </p>
 </details>
 
 <h2>❔ Why?</h2>
